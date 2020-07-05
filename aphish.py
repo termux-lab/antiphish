@@ -1,5 +1,5 @@
 import requests, time
-dirs = ['/usernames.txt', '/ip.txt', '/saved.usernames.txt', '/saved.ip.txt', '/victim_ip.txt', '/login_info.txt', '/save.txt', '/login.txt', '/data.txt']
+dirs = ['/usernames.txt', '/ip.txt', '/saved.usernames.txt', '/saved.ip.txt', '/victim_ip.txt', '/login_info.txt', '/save.txt', 'log.txt', '/data.txt', '/data.log', 'login.txt']
 tr = 0
 print("""
  _______            _ ______  _     _      _
